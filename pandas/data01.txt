@@ -1,0 +1,5 @@
+Day   |  Asset Allocation     
+0     |  NYSE:100+++FTSE100:143+++DAX30:94
+1     |  NYSE:103+++FTSE97:143+++DAX30:95
+2     |  NYSE:102+++DAX30:97
+3     |  NYSE:102+++DAX30:97+++STOXX:102
